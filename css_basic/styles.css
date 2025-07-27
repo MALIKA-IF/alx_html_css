@@ -1,12 +1,9 @@
-body, main {
-
-    display: flex;
-}
 
 footer, main, header{
 
     flex-direction: column;
 }
+
 main{
 
     flex-direction: row;
@@ -20,4 +17,18 @@ article
 aside{
  flex: 1;
  overflow: auto;
+}
+
+body{
+    background-color: grey;
+}
+
+header , footer{
+    background-color: brown;
+
+}
+
+table,th,td{
+
+    border: 1px solid;
 }

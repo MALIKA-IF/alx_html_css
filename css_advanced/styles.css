@@ -1,0 +1,219 @@
+.pros {
+
+    background-image: url("CSS Advanced/Object.png");
+    background-repeat: no-repeat;
+
+}
+.login{
+     display: flex;
+     flex-direction: row;
+     justify-content: flex-end;
+     margin-right: auto;
+
+     
+}
+#logo
+{
+   height: 30px;
+   object-fit: contain;
+   width: 100%;
+
+
+}
+nav a {
+
+    margin: 20px;
+    color: white;
+}
+header{
+
+    padding-right: 100px;
+    padding-top: 40px;
+}
+h1
+{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.smile
+{
+    text-align: center;
+   
+}
+
+button
+{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: block;
+    cursor: pointer;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+h2 {
+    color: white;
+    padding: 14px 48px;
+    margin-left: 50px;
+    margin-top: 120px;
+    text-align: center;
+}
+span{
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+   
+}
+.image{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    padding: 20px 180px;
+    
+
+}
+#Phillip ,#Lawrence,#Walters,#Hughes
+{
+    text-align: center;
+    padding: 20px 50px;
+    color: white;
+}
+#block
+{
+    padding-bottom: auto;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(194, 113, 255, 1);
+    padding-left: 150px;
+    color: white; 
+}
+
+#name
+{
+    font-weight: bold;
+    padding-top: 10px;
+
+}
+#most h2
+{
+    color: black;
+    font-weight: normal;
+}
+.popular
+{
+    padding-bottom: auto;
+    display: flex;
+    flex-direction: row;
+    padding-left: 150px;
+}
+.png
+{
+    border-radius: 50%;
+}
+.container
+{
+    text-align: center;
+    padding: 20px 20px;
+
+}
+.video
+{
+    position: relative;
+    width: 100%;
+    display: block;
+
+}
+.play-button
+{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.free
+{
+    background-color: rgba(7, 22, 41, 1);
+    color: white;
+    padding-bottom: 60px;
+}
+
+.section
+{
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 150px;
+
+}
+
+.section div
+{
+    text-align: center;
+    padding: 20px 40px;
+}
+.section span
+{
+    color: white;
+}
+.free button
+{
+    background-color: rgba(194, 113, 255, 1);
+}
+#fr
+{
+    color: rgba(194, 113, 255, 1);
+}
+.FAQ h1
+{
+    text-align: center;
+    color: black;
+    font-weight: normal;
+
+}
+.txt, .sect1
+{
+
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
+    
+}
+#btw{
+
+    padding-right: 120px;
+}
+#btw1
+{
+    padding-left: 120px;
+}
+footer
+{
+    background-color: rgba(7, 22, 41, 1);
+    padding: 20px 20px 20px 20px;
+}
+footer p
+{
+    color: white;
+    text-align: center;
+}
+
+footer img
+{
+    padding-top: 50px;
+}
+i{
+    color: white;
+}
+
+
+
+
+
+

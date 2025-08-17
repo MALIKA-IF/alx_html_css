@@ -58,3 +58,20 @@ footer p
     color: white;
 
 }
+
+a:hover,
+a:active {
+  color: #FF6565;
+}
+
+button:hover,
+button:active {
+  opacity: 0.9;
+}
+
+@media screen and (max-width: 480px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }}
